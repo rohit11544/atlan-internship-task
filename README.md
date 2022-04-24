@@ -19,3 +19,4 @@ The time taken for the website to get interactive is 2.5sec, for measuring this 
 
 # Deployment
 I have deployed this application in vercel that is https://atlan-task-rose.vercel.app/
+![Screenshot (409)](https://user-images.githubusercontent.com/61901749/164988418-2b6c3f04-2104-4015-95ff-6b4db9291a6d.png)
