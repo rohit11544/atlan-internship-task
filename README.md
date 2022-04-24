@@ -15,7 +15,8 @@ Created, design and implemented a web-based application capable of running SQL q
 
 # Page load time of the application
 The time taken for the website to get interactive is 2.5sec, for measuring this I have used web.dev tool.
-![Screenshot (408)](https://user-images.githubusercontent.com/61901749/164988448-c96f861e-5e62-42cd-8b1d-003ea568e0f8.png)
+![Screenshot (407)](https://user-images.githubusercontent.com/61901749/164988558-052416f3-dc93-40d8-90b4-dd970cd24302.png)
+
 
 
 # Deployment
