@@ -17,3 +17,5 @@ Created, design and implemented a web-based application capable of running SQL q
 The time taken for the website to get interactive is 2.5sec, for measuring this I have used web.dev tool.
 ![Screenshot (403)](https://user-images.githubusercontent.com/56761765/164986467-21c8c5f1-ba36-43ab-ada6-93ab54f5d853.png)
 
+# Deployment
+I have deployed this application in vercel that is https://atlan-task-rose.vercel.app/
